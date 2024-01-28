@@ -30,8 +30,8 @@
         "fullscreen": false,
         "resizable": true,
         "title": "phasor-integration-demo",
-        "width": 800,
-        "height": 600
+        "width": 500,
+        "height": 700
       }
     ]
   },
