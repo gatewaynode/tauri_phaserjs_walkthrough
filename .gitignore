@@ -29,3 +29,7 @@ data/*
 
 # My notes
 NOTES.md
+
+# Build directories and sources
+!src-tauri/gen/android/EXAMPLE.key.properties
+src-tauri/gen/android/key.properties
