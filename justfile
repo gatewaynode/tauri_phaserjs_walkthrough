@@ -1,6 +1,12 @@
 run:
     npm run tauri dev
 
+build_a:
+    pnpm tauri android build
+
+install_a:
+    adb install ~/code/phasor-integration-demo/src-tauri/gen/android/app/build/outputs/apk/universal/release/app-universal-release.apk
+
 check_deps:
     echo "Checking environment variables:"
     echo $JAVA_HOME

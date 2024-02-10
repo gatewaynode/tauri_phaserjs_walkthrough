@@ -40,7 +40,7 @@
   // https://www.thepolyglotdeveloper.com/2020/09/include-touch-cursor-gesture-events-phaser-game/
   const config = {
     type: Phaser.AUTO,
-    width: 500,
+    width: 480,
     height: 700,
     // scene: Demo,
     scene: {
