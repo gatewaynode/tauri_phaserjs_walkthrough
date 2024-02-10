@@ -30,8 +30,8 @@
         "fullscreen": false,
         "resizable": true,
         "title": "phaser-integration-demo",
-        "width": 500,
-        "height": 700
+        "width": 515,
+        "height": 920
       }
     ]
   },
